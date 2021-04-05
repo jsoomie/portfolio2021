@@ -1,3 +1,35 @@
+@media only screen and (max-width: 950px) {
+    #section2-left-side {
+        border: 0;
+        width: 100%;
+    }
+
+    #section2-flex {
+        display: block;
+        font-size: 1.2rem;
+    }
+
+    #section2-flex h1 {
+        writing-mode: horizontal-tb;
+        font-size: 2rem;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #section2-right-side {
+        display: none;
+    }
+
+    #profile-pic {
+        display: none;
+    }
+
+    /* #about-familiars {
+        border: 0;
+        padding: 0;
+    } */
+}
+
 @media only screen and (max-width: 600px) {
     .main-container {
         margin-top: 8rem;
@@ -14,6 +46,10 @@
         align-items: center;
     }
 
+    #name-container {
+        margin: 5rem auto 0 auto;
+    }
+
     #my-name {
         font-size: 2rem;
     }
@@ -24,5 +60,37 @@
 
     .icon-containers {
         font-size: 1.8rem;
+    }
+
+    /* Section02 */
+
+    #section2-left-side {
+        border: 0;
+        width: 100%;
+    }
+
+    #section2-flex {
+        display: block;
+        font-size: 0.9rem;
+    }
+
+    #section2-flex h1 {
+        writing-mode: horizontal-tb;
+        font-size: 1rem;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #section2-right-side {
+        display: none;
+    }
+
+    #profile-pic {
+        display: none;
+    }
+
+    #about-familiars {
+        border: 0;
+        padding: 0;
     }
 }

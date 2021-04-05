@@ -1,7 +1,46 @@
+#section2 h1 {
+    color: yellow;
+}
+
 #section2 nav {
     border-bottom: 1px solid yellow;
 }
 
 #section2 nav a {
     color: yellow;
+}
+
+#section2-flex {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: fit-content;
+}
+
+#section2-flex h1 {
+    writing-mode: vertical-lr;
+    margin-right: 0.5rem;
+    letter-spacing: 0.3rem;
+}
+
+#section2-left-side {
+    padding: 0.7rem;
+    border-left: 1px solid yellow;
+    color: yellow;
+    width:50%;
+}
+
+#section2-right-side {
+    padding: 0.7rem;
+    width:50%;
+}
+
+#about-familiars {
+    border-top: 1px solid yellow;
+    padding: 0.5rem;
+}
+
+#profile-pic {
+    display: block;
+    margin: 0 auto;
 }
