@@ -1,12 +1,28 @@
-
+#name-container {
+    margin: 9rem auto 0 auto;
+    text-align: center;
+}
 #my-name {
     font-size: 4rem;
     font-weight: bold;
     color: orange;
     letter-spacing: 0.5rem;
     border-bottom: 1px solid gray;
+    margin: 0 auto;
 }
 
 #full-stack {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+    letter-spacing: 0.15rem;
+}
+
+.icon-containers {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2.5rem;
+    text-align: center;
 }

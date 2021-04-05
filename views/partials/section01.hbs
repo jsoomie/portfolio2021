@@ -1,14 +1,27 @@
 <section id="section1" class="section">
     {{>nav}}
 
-    <div class="sub-container">
-        <h1>Hello!</h1>
-        <h1>My name is</h1>
-        <p id="my-name">Jonathan Soukaseume</p>
-    </div>
+    <div class="container-fluid">
+        <div class="sub-container" id="name-container">
+            <h1>Hello! My name is</h1>
+            <div>
+                <p id="my-name">Jonathan Soukaseume</p>
+            </div>
+        </div>
+        <div class="sub-container" id="full-stack">
+            <p>I am a Full Stack Web Developer</p>
 
-    <div class="sub-container" id="full-stack">
-        <p>I am a Full Stack Web Developer</p>
+            <div class="icon-containers">
+                <i class="fab fa-html5"></i>
+                <i class="fab fa-css3-alt"></i>
+                <i class="fab fa-js"></i>
+                <i class="fab fa-node-js"></i>
+                <i class="fab fa-npm"></i>
+                <i class="fas fa-database"></i>
+                <i class="fas fa-server"></i>
+            </div>
+
+        </div>
     </div>
 
     {{> footer}}
