@@ -23,7 +23,7 @@ $(document).ready(() => {
                 if (currentIndex + 1 >= sections.length) return;
                 currentIndex++;
                 const nextSection = $(sections[currentIndex]);
-                var offsetTop = nextSection.offset().top;
+                const offsetTop = nextSection.offset().top;
                 event.preventDefault();
                 isAnimating = true;
                 $("html, body").animate(
