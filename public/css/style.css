@@ -6,6 +6,11 @@
 @import "./utils.css";
 
 /* Important */
+@import "./footer.css";
+@import "./section01.css";
+@import "./section02.css";
+@import "./section03.css";
+@import "./section04.css";
 @import "./navbar.css";
 @import "./media.css";
 
@@ -13,29 +18,24 @@ section{
     height: 100%;
     width: 100%;
     position: absolute;
-    touch-action: manipulation; 
 }
 
 section#section1{
     top: 0;
     background: white;
-    touch-action: manipulation; 
 }
 
 section#section2{
     top: 100%;
     background: purple;
-    touch-action: manipulation; 
 }
 
 section#section3{
     top: 200%;
     background: lightseagreen;
-    touch-action: manipulation; 
 }
 
 section#section4{
     top: 300%;
     background: orange;
-    touch-action: manipulation; 
 }
