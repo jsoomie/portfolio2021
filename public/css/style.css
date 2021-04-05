@@ -1,0 +1,11 @@
+/* Imports */
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+/* General */
+@import "./resets.css";
+@import "./utils.css";
+
+/* Important */
+@import "./navbar.css";
+@import "./media.css";
+
