@@ -15,6 +15,11 @@
     border-top: 1px solid white;
 }
 
+#section3 a {
+    background-color: transparent;
+    color: #333;
+}
+
 #section3-projects {
     display: flex;
     justify-content: space-between;
