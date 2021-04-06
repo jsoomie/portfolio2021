@@ -89,4 +89,29 @@
         border: 0;
         padding: 0;
     }
+
+    /* SECTION 03 */
+    #section3-projects {
+        display: block;
+        font-size: 0.85rem;
+    }
+
+    #section3-main-container {
+        border: 0;
+    }
+
+    #section3-projects h1 {
+        writing-mode: horizontal-tb;
+        font-size: 1rem;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #section3 .card-body {
+        display: none;
+    }
+
+    #section3 .card {
+        height: fit-content;
+    }
 }
