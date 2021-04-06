@@ -27,12 +27,12 @@
     padding: 0.7rem;
     border-left: 1px solid yellow;
     color: yellow;
-    width:50%;
+    width:60%;
 }
 
 #section2-right-side {
     padding: 0.7rem;
-    width:50%;
+    width:40%;
 }
 
 #about-familiars {
@@ -43,4 +43,9 @@
 #profile-pic {
     display: block;
     margin: 0 auto;
+    border: 2px solid yellow;
+    border-left: 4px solid yellow;
+    border-right: 4px solid yellow;
+    border-radius: 5px;
+    box-shadow: 0 0 10px gray;
 }
