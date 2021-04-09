@@ -8,22 +8,25 @@
             <div class="card">
                 <form>
                     <div>
-                        <label for="name">Name</label>
+                        <label for="name">Your Name</label>
                         <br>
-                        <input type="text">
+                        <input type="text" id="email-name">
                     </div>
                     <div>
-                        <label for="email">Email</label>
+                        <label for="title">The Subject</label>
                         <br>
-                        <input type="email">
+                        <input type="text" id="email-title">
                     </div>
                     <div>
-                        <label for="message">Message</label>
+                        <label for="message">The Message</label>
                         <br>
-                        <textarea name="message" cols="30" rows="10"></textarea>
+                        <textarea name="message" cols="30" rows="10" id="email-body"></textarea>
                     </div>
+                    <button id="email-submit" type="button">Email</button>
                 </form>
             </div>
         </article>
     </div>
 </section>
+
+<script defer src="/js/section04.js"></script>
