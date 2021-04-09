@@ -128,5 +128,22 @@
     }
 
     /*  SECTION 4  */
+    #contact-container .card {
+        background-color: rgba(255, 255, 255, .15);
+        backdrop-filter: blur(5px);
+        border: 0;
+        padding: 1rem;
+        max-width: 100%;
+        margin: 0 auto;
+
+    }
+
+    #contact-container h1 {
+        display: none;
+    }
+
+    #contact-container article {
+        border: 0;
+    }
 
 }
