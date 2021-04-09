@@ -47,6 +47,7 @@
 #contact-container input,
 #contact-container, textarea {
     width: 100%;
+    padding: 0.5rem;
 }
 
 #contact-container article p {
