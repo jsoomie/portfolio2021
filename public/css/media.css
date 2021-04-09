@@ -1,4 +1,7 @@
 @media only screen and (max-width: 950px) {
+
+    /* ######### */
+    /* SECTION 2 */
     #section2-left-side {
         border: 0;
         width: 100%;
@@ -22,6 +25,14 @@
 
     #profile-pic {
         display: none;
+    }
+
+    /* ********* */
+    /* SECTION 3 */
+
+    #section3 .card {
+        height: fit-content;
+        width: fit-content;
     }
 
 }
@@ -113,5 +124,9 @@
 
     #section3 .card {
         height: fit-content;
+        width: fit-content;
     }
+
+    /*  SECTION 4  */
+
 }

@@ -34,8 +34,23 @@
     backdrop-filter: blur(5px);
     border: 0;
     padding: 1rem;
+    max-width: 90%;
+    margin: 0 auto;
+
 }
 
 #contact-container form div {
     margin: 1rem 0;
+}
+
+#contact-container input,
+#contact-container, textarea {
+    width: 100%;
+}
+
+#contact-container article p {
+    margin: 0.5rem auto;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
 }
