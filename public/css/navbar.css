@@ -13,6 +13,21 @@
 #navbar-name {
     font-size: 2rem;
     background-color: transparent;
+    display: flex;
+}
+ 
+#navbar-bar {
+    padding: 0 1rem;
+}
+
+#navbar-social-links {
+    font-size: 2rem;
+    padding-top: 0.5rem;
+}
+
+#resume {
+    font-size: 1.5rem;
+    margin-left: 1rem;
 }
 
 #navbar-name span {
