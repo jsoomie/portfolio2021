@@ -2,7 +2,7 @@
 
 - [Jonathan Soukaseume Portfolio](#jonathan-soukaseume-portfolio)
   - [INTRODUCTION](#introduction)
-  - [Links](#links)
+  - [LINKS](#links)
   - [USAGE](#usage)
   - [CONTRIBUTIONS](#contributions)
   - [CREDITS](#credits)
@@ -12,7 +12,7 @@
 
 Welcome to my profile! This is an updated version of my profile page! Take a look and you'll find all my social links and contact information on the pages! Thank you!
 
-## Links
+## LINKS
 - [GitHub](https://github.com/sksmejn)
 - [Profile]()
 
