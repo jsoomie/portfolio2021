@@ -14,7 +14,7 @@ Welcome to my profile! This is an updated version of my profile page! Take a loo
 
 ## LINKS
 - [GitHub](https://github.com/sksmejn)
-- [Profile]()
+- [Profile](https://protected-scrubland-40335.herokuapp.com/)
 
 ## USAGE
 
